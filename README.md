@@ -146,7 +146,8 @@ ROI Rapido: Automazione processo manuale
 📞 Supporto
 Per questioni tecniche o richieste di personalizzazione, contattare il team di sviluppo.
 
-Versione: 2.1.0
-Ultimo aggiornamento: Gennaio 2025
-Licenza: MIT
+Versione: 2.0
+Ultimo aggiornamento: Luglio 2025
+Licenza: ITS Academy Udine
 Autore: Michele Zago
+Email: zago.michele2002@gmail.com
